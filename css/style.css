@@ -60,7 +60,7 @@ body main {
 #greeting {
     font-family: 'Dongle', sans-serif;
     font-size: 60px;
-    color: white;
+    color: #7fffd4;
     text-shadow: 5px 5px 0 gray;
     margin: 51px 51px;
 }
